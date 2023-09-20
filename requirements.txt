@@ -1,0 +1,19 @@
+The package requirements for the given Python program are:
+- requests
+- bs4 (BeautifulSoup) 
+- nltk
+- gensim
+- smtplib (part of the Python standard library)
+- matplotlib.pyplot (part of the Matplotlib library)
+- plotly.graph_objects (part of the Plotly library)
+
+You can install these packages using pip:
+
+```
+pip install requests
+pip install beautifulsoup4
+pip install nltk
+pip install gensim
+pip install matplotlib
+pip install plotly
+```
