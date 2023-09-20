@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:\Users\Antho\temp.py", line 6, in <module>
+    from gensim.summarization import summarize
+ModuleNotFoundError: No module named 'gensim'
